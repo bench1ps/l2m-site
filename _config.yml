@@ -1,10 +1,7 @@
-# Site settings
 title: Les 2 Machins
 email: contact@les2machins.fr
-description: "Les 2 Machins"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://les2machins.fr" # the base hostname & protocol for your site
+description: "Les restaus Parisiens revus et corrigés"
+baseurl: ""
+url: "http://les2machins.fr"
 twitter_username: les2machins
-
-# Build settings
 markdown: kramdown
