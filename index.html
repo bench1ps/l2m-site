@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Dernières critiques</h1>
+
+  <ul class="box-list">
+    {% for post in site.posts %}
+      <li>
+        <h2 class="box-header">
+          <a class="box-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <span class="box-meta">Publié le {{ post.date | date: "%d/%m/%Y" }}</span>
+        <p class="box-excerpt">{{ post.excerpt }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
