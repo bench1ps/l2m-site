@@ -5,31 +5,49 @@
     <description>Les restaus Parisiens revus et corrigés</description>
     <link>http://les2machins.fr/</link>
     <atom:link href="http://les2machins.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Dec 2014 19:32:51 +0100</pubDate>
-    <lastBuildDate>Sun, 21 Dec 2014 19:32:51 +0100</lastBuildDate>
+    <pubDate>Thu, 01 Jan 2015 23:42:23 +0100</pubDate>
+    <lastBuildDate>Thu, 01 Jan 2015 23:42:23 +0100</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
     
       <item>
         <title>Le Foobar</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing lit. Nullam consectetur arcu et sapien cursus, sed euismod mi tempus. Nam justo mauris, interdum id maximus quis, ultricies quis urna. Donec ultricies tellus ac elit condimentum congue. Ut congue elementum sem sit amet tiLorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
-&lt;/blockquote&gt;
+        <description>&lt;h1 id=&quot;accueil&quot;&gt;Accueil&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&quot;glyphicon glyphicon-star active&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;glyphicon glyphicon-star active&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;glyphicon glyphicon-star active&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;glyphicon glyphicon-star active&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;glyphicon glyphicon-star&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing lit. Nullam consectetur arcu et sapien cursus, sed euismod mi tempus. Nam justo mauris, interdum id maximus quis, ultricies quis urna.
+Lorem ipsum dolor sit amet, consectetur adipiscing lit. Nullam consectetur arcu et sapien cursus, sed euismod mi tempus. Nam justo mauris, interdum id maximus quis, ultricies quis urna.&lt;/p&gt;
 
-&lt;h1 id=&quot;accueil&quot;&gt;Accueil&lt;/h1&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing lit. Nullam consectetur arcu et sapien cursus, sed euismod mi tempus. Nam justo mauris, interdum id maximus quis, ultricies quis urna.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Lorem ipsum dolor sit amet&lt;/li&gt;
+  &lt;li&gt;Lorem ipsum dolor sit amet&lt;/li&gt;
+  &lt;li&gt;Lorem ipsum dolor sit amet&lt;/li&gt;
+  &lt;li&gt;Lorem ipsum dolor sit amet&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h1 id=&quot;ambiance&quot;&gt;Ambiance&lt;/h1&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing lit. Nullam consectetur arcu et sapien cursus, sed euismod mi tempus. Nam justo mauris, interdum id maximus quis, ultricies quis urna&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;glyphicon glyphicon-star active&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;glyphicon glyphicon-star active&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;glyphicon glyphicon-star active&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;glyphicon glyphicon-star&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;glyphicon glyphicon-star&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing lit. Nullam consectetur arcu et sapien cursus, sed euismod mi tempus. Nam justo mauris, interdum id maximus quis, ultricies quis urna
+Lorem ipsum dolor sit amet, consectetur adipiscing lit. Nullam consectetur arcu et sapien cursus, sed euismod mi tempus. Nam justo mauris, interdum id maximus quis, ultricies quis urna.&lt;/p&gt;
 
 &lt;h1 id=&quot;cuisine&quot;&gt;Cuisine&lt;/h1&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing lit. Nullam consectetur arcu et sapien cursus, sed euismod mi tempus. Nam justo mauris, interdum id maximus quis, ultricies quis urna&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;glyphicon glyphicon-star active&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;glyphicon glyphicon-star active&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;glyphicon glyphicon-star active&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;glyphicon glyphicon-star active&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;glyphicon glyphicon-star active&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing lit. Nullam consectetur arcu et sapien cursus, sed euismod mi tempus. Nam justo mauris, interdum id maximus quis, ultricies quis urna
+Lorem ipsum dolor sit amet, consectetur adipiscing lit. Nullam consectetur arcu et sapien cursus, sed euismod mi tempus. Nam justo mauris, interdum id maximus quis, ultricies quis urna.&lt;/p&gt;
 </description>
         <pubDate>Sun, 21 Dec 2014 00:00:00 +0100</pubDate>
-        <link>http://les2machins.fr/2014/12/21/le-petit-louis.html</link>
-        <guid isPermaLink="true">http://les2machins.fr/2014/12/21/le-petit-louis.html</guid>
+        <link>http://les2machins.fr/le-foobar</link>
+        <guid isPermaLink="true">http://les2machins.fr/le-foobar</guid>
         
         
       </item>

@@ -3,14 +3,26 @@ layout: default
 catch: plaf
 ---
 <div class="post">
-
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">Publié le {{ page.date | date: "%d/%m/%Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
+  <blockquote>
+      {{ page.excerpt }}
+  </blockquote>
+
+  <p class="address">
+    <i class="glyphicon glyphicon-map-marker"></i> {{ page.address }}
+    <br>
+    <i class="glyphicon glyphicon-earphone"></i> {{ page.phone }}
+    {% if page.lafourchette %}
+        <br>
+        <i class="glyphicon glyphicon-glass"></i> Réservez sur <a href="{{ page.lafourchette }}">lafourchette</a>
+    {% endif %}
+  </p>
+
   <article class="post-content">
     {{ content }}
   </article>
-
 </div>
