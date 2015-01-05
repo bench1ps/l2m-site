@@ -6,3 +6,37 @@
     color: $brand-primary;
 }
 
+.slidesjs-pagination {
+    margin: 6px 0 0;
+    float: right;
+    list-style: none;
+    display: block;
+    margin-top: 10px;
+}
+
+.slidesjs-pagination li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+    float: left;
+    margin: 0 1px;
+}
+
+.slidesjs-pagination li a {
+    display: block;
+    width: 13px;
+    height: 0;
+    padding-top: 13px;
+    background-image: url(/images/pagination.png);
+    background-position: 0 0;
+    float: left;
+    overflow: hidden;
+}
+
+.slidesjs-pagination li a.active, .slidesjs-pagination li a:hover.active {
+    background-position: 0 -13px;
+}
+
+ul.nav {
+    margin-left: 0;
+    margin-bottom: 10px;
+}

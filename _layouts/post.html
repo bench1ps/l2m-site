@@ -22,7 +22,32 @@ catch: plaf
     {% endif %}
   </p>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+  <div id="slides">
+    <img src="http://placehold.it/540x228">
+    <img src="http://placehold.it/540x228">
+    <img src="http://placehold.it/540x228">
+    <img src="http://placehold.it/540x228">
+    <img src="http://placehold.it/540x228">
+  </div>
+
+  <ul class="nav nav-tabs" role="tablist">
+    <li role="menu" class="active"><a href="#menu" aria-controls="menu" role="tab" data-toggle="tab">Points forts de la carte</a></li>
+    <li role="review"><a href="#review" aria-controls="review" role="tab" data-toggle="tab">Critique complète</a></li>
+  </ul>
+
+  <div class="tab-content">
+      <div role="tabpanel" class="tab-pane active" id="menu">
+          <ul>
+              <li>Lorem ipsum</li>
+              <li>Lorem ipsum</li>
+              <li>Lorem ipsum</li>
+              <li>Lorem ipsum</li>
+          </ul>
+      </div>
+      <div role="tabpanel" class="tab-pane" id="review">
+          <article class="post-content">
+              {{ content }}
+          </article>
+      </div>
+  </div>
 </div>
